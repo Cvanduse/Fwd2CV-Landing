@@ -12,7 +12,7 @@ enableRobotsTXT = true
 editor = "nano"
 languageCode = "en"
 language = "en"
-theme = "vncnt-hugo"
+theme = "github.com/fncnt/vncnt-hugo"
 title = "John Doe · Landing Page"
 
 _merge = "none"
